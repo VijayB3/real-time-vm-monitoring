@@ -371,6 +371,9 @@ The HTML report includes:
  
 <img width="1920" height="975" alt="1" src="https://github.com/user-attachments/assets/3d7400b6-b2e6-44ab-b9ec-08264867c09a" />
 
+<img width="1920" height="971" alt="2" src="https://github.com/user-attachments/assets/4827f976-1125-42a5-bc0d-bfb6b52ef219" />
+
+
 ---
 
 # Future Enhancements
