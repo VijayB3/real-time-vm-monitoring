@@ -343,27 +343,33 @@ The HTML report includes:
 # Screenshots
 
 ## AWS EC2 Infrastructure
-(Add Screenshot Here)
+ 
+<img width="1920" height="960" alt="3" src="https://github.com/user-attachments/assets/8d13cd10-789a-4c5b-a9f5-1a1b805ca64a" />
+
 
 ---
 
 ## MobaXterm SSH Connection
-(Add Screenshot Here)
+ 
+<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/ee5d334b-5aa7-42da-bdea-aab3a1675e83" />
 
 ---
 
 ## Dynamic Inventory Output
-(Add Screenshot Here)
+ 
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/3dc92ffd-96d3-44e9-b366-800d71856a04" />
 
 ---
 
 ## Ansible Playbook Execution
-(Add Screenshot Here)
+ 
+<img width="1920" height="1024" alt="5" src="https://github.com/user-attachments/assets/d32667f7-4cbd-48e9-a3d7-09e9c6752b67" />
 
 ---
 
 ## HTML Monitoring Dashboard
-(Add Screenshot Here)
+ 
+<img width="1920" height="975" alt="1" src="https://github.com/user-attachments/assets/3d7400b6-b2e6-44ab-b9ec-08264867c09a" />
 
 ---
 
