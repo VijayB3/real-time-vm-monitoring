@@ -1,0 +1,5 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "vijayvb000@gmail.com"
+email_pass: "zhxf oydm reiz jjqq"
+alert_recipient: "vijayvb010@gmail.com"
