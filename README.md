@@ -412,7 +412,7 @@ https://github.com/VijayB3/real-time-vm-monitoring
 
 # Author
 
-Vijay B
+Vijay B.
 
 ---
 
