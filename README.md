@@ -1,4 +1,4 @@
-# Real-Time VM Monitoring & Automated Email Alerting using Ansible and AWS.
+# Real-Time VM Monitoring & Automated Email Alerting using Ansible and AWS
 
 ## Project Overview
 
